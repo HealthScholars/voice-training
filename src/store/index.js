@@ -32,7 +32,6 @@ export default new Vuex.Store({
       });
 
       let accounts = response.data.listAccounts.items;
-      console.log(accounts);
 
       commit("setAccounts", accounts);
     }

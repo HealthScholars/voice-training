@@ -1,5 +1,16 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <TestComponent msg="Test" />
   </div>
 </template>
+
+<script>
+import TestComponent from "@/components/TestComponent.vue";
+
+export default {
+  name: "About",
+  components: {
+    TestComponent
+  }
+};
+</script>
