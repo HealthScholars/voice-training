@@ -116,10 +116,7 @@ export default {
   props: {
     msg: String
   },
-  mounted() {
-    this.$store.dispatch("getAccounts");
-    console.log(this.$store.dispatch("getAccounts"));
-  }
+  mounted() {}
 };
 </script>
 

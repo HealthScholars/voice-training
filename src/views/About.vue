@@ -1,16 +1,12 @@
 <template>
   <div>
-    <TestComponent msg="Test" />
+    <h1>About View</h1>
   </div>
 </template>
 
 <script>
-import TestComponent from "@/components/TestComponent.vue";
-
 export default {
   name: "About",
-  components: {
-    TestComponent
-  }
+  components: {}
 };
 </script>
