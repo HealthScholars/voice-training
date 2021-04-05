@@ -1,11 +1,11 @@
 {
-  "name": "web-component-template",
+  "name": "health-scholars-voice-training",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:web-component": "vue-cli-service build --target wc --inline-vue --name component-name ./src/App.vue",
+    "build:web-component": "vue-cli-service build --target wc --name health-scholars-voice-training --dest public/web-components --no-clean ./src/App.vue",
     "test:e2e": "vue-cli-service test:e2e",
     "test:e2e:headless": "vue-cli-service test:e2e --headless",
     "lint": "vue-cli-service lint"
@@ -38,9 +38,6 @@
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-apollo": "~0.22.2",
     "vue-template-compiler": "^2.6.11"
-  },
-  "gitHooks": {
-    "pre-commit": "lint-staged"
   },
   "lint-staged": {
     "*.{js,jsx,vue}": [
