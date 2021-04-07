@@ -3,7 +3,7 @@
     <div class="training-requests container pa-12">
       <div class="request">
         <div class="request-text">
-          <p>Ask [Name] to administer Adenosine 6 mg to a patient in SVT</p>
+          <p>Ask Jose to administer Adenosine 6 mg to a patient in SVT</p>
         </div>
         <div class="recording-button">
           <iframe
@@ -19,7 +19,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to follow up with Adenosine 12 mg because the 1st dose did not break the SVT
+            Ask Sonja to follow up with Adenosine 12 mg because the 1st dose did not break the SVT
           </p>
         </div>
         <div class="recording-button">
@@ -36,7 +36,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to administer Amiodarone 300mg IVP for a patient in cardiac arrest
+            Ask Sonja to administer Amiodarone 300mg IVP for a patient in cardiac arrest
           </p>
         </div>
         <div class="recording-button">
@@ -53,7 +53,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to administer Amiodarone 150 mg as an infusion for a patient with stable ventricular tachycardia
+            Ask Jose to administer Amiodarone 150 mg as an infusion for a patient with stable ventricular tachycardia
           </p>
         </div>
         <div class="recording-button">
@@ -70,7 +70,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to administer Atropine .5 mg for a patient who is bradycardia and hypotensive</p>
+            Ask Erin to administer Atropine .5 mg for a patient who is bradycardia and hypotensive</p>
         </div>
         <div class="recording-button">
           <iframe
@@ -86,7 +86,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to administer a Benzodiazepine (the one that you are most comfortable with) for sedation prior to electrical cardio version
+            Ask Michael to administer a Benzodiazepine (the one that you are most comfortable with) for sedation prior to electrical cardio version
           </p>
         </div>
         <div class="recording-button">
@@ -103,7 +103,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to initiate a Dopamine drip for a patient who is bradycardia and hypotensive
+            Ask Maria to initiate a Dopamine drip for a patient who is bradycardia and hypotensive
           </p>
         </div>
         <div class="recording-button">
@@ -120,7 +120,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to administer Epinephrine to a patient in cardiac arrest
+            Ask Andre to administer Epinephrine to a patient in cardiac arrest
           </p>
         </div>
         <div class="recording-button">
@@ -137,7 +137,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to initiate an Epinephrine drip for a patient who is bradycardia and hypotensive
+            Ask Sonja to initiate an Epinephrine drip for a patient who is bradycardia and hypotensive
           </p>
         </div>
         <div class="recording-button">
@@ -154,7 +154,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to defibrillate a patient in cardiac arrest with a shockable rhythm
+            Ask Erin to defibrillate a patient in cardiac arrest with a shockable rhythm
           </p>
         </div>
         <div class="recording-button">
@@ -171,7 +171,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to perform Synchronized Cardioversion for a patient with unstable rapid atrial fibrillation
+            Ask Michael to perform Synchronized Cardioversion for a patient with unstable rapid atrial fibrillation
           </p>
         </div>
         <div class="recording-button">
@@ -188,7 +188,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask [Name] to initiate Transcutaneous Pacing for a patient who is bradycardia and hypotensive
+            Ask Andre to initiate Transcutaneous Pacing for a patient who is bradycardia and hypotensive
           </p>
         </div>
         <div class="recording-button">
@@ -204,10 +204,10 @@
       </div>
       <div class="request">
         <div class="request-text">
-          <p>[Name] is the RN managing the defibrillator</p>
-          <p>[Name] is the medication RN</p>
+          <p>Jose is the RN managing the defibrillator</p>
+          <p>Andre is the medication RN</p>
           <p>
-            Ask [Name] and [Name] to defibrillate and administer Epinephrine to a patient in cardiac arrest with a shockable rhythm
+            Ask Maria and Erin to defibrillate and administer Epinephrine to a patient in cardiac arrest with a shockable rhythm
           </p>
         </div>
         <div class="recording-button">
@@ -223,10 +223,10 @@
       </div>
       <div class="request">
         <div class="request-text">
-          <p>[Name] is the RN managing the defibrillator</p>
-          <p>[Name] is the medication RN</p>
+          <p>Erin is the RN managing the defibrillator</p>
+          <p>Michael is the medication RN</p>
           <p>
-            Ask [Name] and [Name] to defibrillate and administer Amiodarone to a patient in cardiac arrest with a shockable rhythm
+            Ask Andre and Maria to defibrillate and administer Amiodarone to a patient in cardiac arrest with a shockable rhythm
           </p>
         </div>
         <div class="recording-button">
