@@ -36,7 +36,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask Sonja to administer Amiodarone 300mg IVP for a patient in cardiac arrest
+            Ask Erin to administer Amiodarone 300mg IVP for a patient in cardiac arrest
           </p>
         </div>
         <div class="recording-button">
@@ -53,7 +53,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask Jose to administer Amiodarone 150 mg as an infusion for a patient with stable ventricular tachycardia
+            Ask Michael to administer Amiodarone 150 mg as an infusion for a patient with stable ventricular tachycardia
           </p>
         </div>
         <div class="recording-button">
@@ -70,7 +70,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask Erin to administer Atropine .5 mg for a patient who is bradycardia and hypotensive</p>
+            Ask Andre to administer Atropine .5 mg for a patient who is bradycardia and hypotensive</p>
         </div>
         <div class="recording-button">
           <iframe
@@ -86,7 +86,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask Michael to administer a Benzodiazepine (the one that you are most comfortable with) for sedation prior to electrical cardio version
+            Ask Sonja to administer a Benzodiazepine (the one that you are most comfortable with) for sedation prior to electrical cardio version
           </p>
         </div>
         <div class="recording-button">
@@ -137,7 +137,7 @@
       <div class="request">
         <div class="request-text">
           <p>
-            Ask Sonja to initiate an Epinephrine drip for a patient who is bradycardia and hypotensive
+            Ask Jose to initiate an Epinephrine drip for a patient who is bradycardia and hypotensive
           </p>
         </div>
         <div class="recording-button">
