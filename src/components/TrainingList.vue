@@ -322,9 +322,9 @@ export default {
 
 .recording-button {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: center;
-  height: 72px;
+  height: 165px;
   // max-width: 280px;
   // min-width: 190px;
   overflow: hidden;
