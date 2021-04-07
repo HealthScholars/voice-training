@@ -146,20 +146,13 @@
         <div class="spacer"></div>
         <nav class="main-menu" role="menu">
           <ul>
-            <li class="mx-1">
-              <a href="//healthscholars.com/resources/support/"
-                ><i
-                  aria-hidden="true"
-                  class="v-icon notranslate mdi mdi-lifebuoy theme--light"
-                ></i
+            <li class="mx-2 mx-lg-0">
+              <a href="//healthscholars.com/resources/support/" title="Get Support"><i aria-hidden="true" class="v-icon notranslate mdi mdi-lifebuoy theme--light"></i
               ></a>
             </li>
-            <li class="mx-1">
-              <a href="//simnext.zendesk.com/hc/en-us/"
-                ><i
-                  aria-hidden="true"
-                  class="v-icon notranslate mdi mdi-help-rhombus theme--light"
-                ></i
+            <li class="mx-2 mx-lg-0">
+              <a href="//simnext.zendesk.com/hc/en-us/" title="Help Desk"
+                ><i aria-hidden="true" class="v-icon notranslate mdi mdi-help-rhombus theme--light"></i
               ></a>
             </li>
           </ul>
@@ -206,7 +199,7 @@ export default {
 @media (min-width: 1264px) {
   .v-application--wrap {
     flex-direction: row;
-    min-height: unset;
+    // min-height: unset;
     height: 100vh;
   }
 }
@@ -216,13 +209,15 @@ export default {
 .site-header {
   display: flex;
   align-items: center;
-  position: relative;
-  z-index: 1;
+  padding-top: 0;
+  // position: relative;
+  // z-index: 1;
 }
 
 .logo {
   display: flex;
   flex: 1 1 auto;
+  margin-bottom: 1rem;
 
   svg {
     max-width: 10rem;
@@ -264,11 +259,14 @@ export default {
     align-items: unset;
     flex-direction: column;
     flex: 1 1 20rem;
+    flex: 0 1 clamp(240px, 360px, 420px);
     padding-right: 0;
     padding-left: 0;
     padding-bottom: 0;
     margin: 0;
     max-width: 24rem;
+    max-width: revert;
+    min-width: 19rem;
   }
 
   .spacer {
@@ -279,7 +277,7 @@ export default {
     justify-content: center;
     flex: 0 1 auto;
     margin-top: 1rem;
-    padding: 0 5rem;
+    padding: 0 3rem;
   }
 
   .main-menu {
@@ -288,6 +286,26 @@ export default {
 
     ul {
       justify-content: center;
+    }
+  }
+
+  .main-menu {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    padding: 1.5rem .875rem 2rem 1rem;
+
+    ul {
+      flex-direction: column;
+    }
+
+    li + li {
+      margin-top: 1rem;
+    }
+
+    .v-icon.v-icon {
+      font-size: clamp(2rem, 1.5vmax, 3.4rem);
     }
   }
 }
