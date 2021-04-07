@@ -160,18 +160,24 @@
         <PageHeader :page-title="this.pageTitle" class="header-desktop" />
       </header>
       <PageHeader :page-title="this.pageTitle" class="header-mobile" />
-      <router-view></router-view>
+      <TrainingList />
     </div>
   </div>
 </template>
 
 <script>
+import router from "./router";
+import store from "./store";
 import PageHeader from "@/components/PageHeader.vue";
+import TrainingList from "@/components/TrainingList.vue";
 
 export default {
+  router,
+  store,
   name: "App",
   components: {
-    PageHeader
+    PageHeader,
+    TrainingList
   },
   data() {
     return {
