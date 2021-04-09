@@ -75,6 +75,7 @@ export default {
 @media (min-width: 1264px) {
   .page-header {
     background-position: 65% top;
+    background-size: auto;
     flex: 1 1 auto;
 
     .container {
