@@ -206,7 +206,7 @@ export default {
   .v-application--wrap {
     flex-direction: row;
     // min-height: unset;
-    height: 100vh;
+    // height: 100vh;
   }
 }
 </style>
