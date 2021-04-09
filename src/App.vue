@@ -215,7 +215,7 @@ export default {
 .site-header {
   display: flex;
   align-items: center;
-  padding-top: 0;
+  // padding-top: 0;
   // position: relative;
   // z-index: 1;
 }
@@ -223,10 +223,11 @@ export default {
 .logo {
   display: flex;
   flex: 1 1 auto;
-  margin-bottom: 1rem;
+  // margin-bottom: 1rem;
 
   svg {
     max-width: 10rem;
+    width: 100%;
   }
 }
 
@@ -266,6 +267,7 @@ export default {
     flex-direction: column;
     flex: 1 1 20rem;
     flex: 0 1 clamp(240px, 360px, 420px);
+    padding-top: 0;
     padding-right: 0;
     padding-left: 0;
     padding-bottom: 0;
@@ -286,6 +288,7 @@ export default {
     justify-content: center;
     flex: 0 1 auto;
     margin-top: 1rem;
+    margin-bottom: 1rem;
     padding: 0 3rem;
   }
 
