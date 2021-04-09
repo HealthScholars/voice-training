@@ -273,6 +273,9 @@ export default {
     max-width: 24rem;
     max-width: revert;
     min-width: 19rem;
+    position: sticky;
+    top: 0;
+    height: 100vh;
   }
 
   .spacer {
